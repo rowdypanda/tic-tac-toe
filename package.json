@@ -9,7 +9,7 @@
     "react-scripts": "1.0.0"
   },
   "name": "vy6j3f",
-  "description": null,
+  "description": "A tic-tac-toe tutorial project",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
